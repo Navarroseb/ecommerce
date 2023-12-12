@@ -5,7 +5,7 @@ function App() {
  
   return (
     <>
-      <div className="" >
+      <div className="bg-[#262837] w-full min-h-screen" >
         <Sidebar />
       </div>
     </>
